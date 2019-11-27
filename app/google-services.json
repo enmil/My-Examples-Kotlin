@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "732481180890",
+    "firebase_url": "https://apphikarirestaurant-22da3.firebaseio.com",
+    "project_id": "apphikarirestaurant-22da3",
+    "storage_bucket": "apphikarirestaurant-22da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732481180890:android:8b0a89d818d279486901e3",
+        "android_client_info": {
+          "package_name": "com.mdc.apphikarirestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732481180890-ddh96noii9qf7rvd8sdnl7ujk5fr51v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdc.apphikarirestaurant",
+            "certificate_hash": "f910fecccee8e6ad63a729fb4afc5575e8bbe785"
+          }
+        },
+        {
+          "client_id": "732481180890-b9at1um9n111pdvnu95r1ehub180ghdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7bwMQfcMhEvkN-gSzdsjEtJ6w0hFATY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732481180890-b9at1um9n111pdvnu95r1ehub180ghdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732481180890:android:43c076686d56d4276901e3",
+        "android_client_info": {
+          "package_name": "com.mdc.myexampleskotlin2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732481180890-c4qajkb36nehd95og32raogl0n88daa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdc.myexampleskotlin2019",
+            "certificate_hash": "f910fecccee8e6ad63a729fb4afc5575e8bbe785"
+          }
+        },
+        {
+          "client_id": "732481180890-b9at1um9n111pdvnu95r1ehub180ghdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7bwMQfcMhEvkN-gSzdsjEtJ6w0hFATY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732481180890-b9at1um9n111pdvnu95r1ehub180ghdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
